@@ -1,0 +1,1 @@
+console.log(newstring.slice(-6,5))
