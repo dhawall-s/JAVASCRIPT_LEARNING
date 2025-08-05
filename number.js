@@ -32,6 +32,12 @@
 // console.log(Math.floor(num1))
 // console.log(Math.ceil(num1))
 
-console.log(Math.floor(Math.random()*10)+11)
+// console.log(Math.floor(Math.random()*10)+11)
+
+
+let min=40 
+let max=50
+
+console.log(Math.floor(Math.random()*(max-min+1)+min))
 
 
